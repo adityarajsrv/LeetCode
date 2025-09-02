@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/adityarajsrv/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
