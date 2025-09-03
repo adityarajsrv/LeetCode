@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0468-validate-ip-address](https://github.com/adityarajsrv/LeetCode/tree/master/0468-validate-ip-address) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarajsrv/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/adityarajsrv/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarajsrv/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
