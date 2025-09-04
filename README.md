@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/adityarajsrv/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/adityarajsrv/LeetCode/tree/master/0468-validate-ip-address) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/adityarajsrv/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
