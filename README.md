@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adityarajsrv/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/adityarajsrv/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/adityarajsrv/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/adityarajsrv/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/adityarajsrv/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
