@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/adityarajsrv/LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/adityarajsrv/LeetCode/tree/master/0468-validate-ip-address) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityarajsrv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityarajsrv/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityarajsrv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
 |  |
@@ -61,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
