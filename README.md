@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/adityarajsrv/LeetCode/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityarajsrv/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityarajsrv/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adityarajsrv/LeetCode/tree/master/0231-power-of-two) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
