@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/adityarajsrv/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sorting
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adityarajsrv/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/adityarajsrv/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/adityarajsrv/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
