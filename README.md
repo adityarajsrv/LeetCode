@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityarajsrv/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/adityarajsrv/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityarajsrv/LeetCode/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityarajsrv/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityarajsrv/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adityarajsrv/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adityarajsrv/LeetCode/tree/master/0231-power-of-two) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityarajsrv/LeetCode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityarajsrv/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
