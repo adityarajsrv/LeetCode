@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityarajsrv/LeetCode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/adityarajsrv/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/adityarajsrv/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
