@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/adityarajsrv/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/adityarajsrv/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adityarajsrv/LeetCode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/adityarajsrv/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/adityarajsrv/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Trie
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/adityarajsrv/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/adityarajsrv/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/adityarajsrv/LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/adityarajsrv/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/adityarajsrv/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1054-complement-of-base-10-integer](https://github.com/adityarajsrv/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/adityarajsrv/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/adityarajsrv/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityarajsrv/LeetCode/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityarajsrv/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityarajsrv/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
