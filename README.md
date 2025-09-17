@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityarajsrv/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityarajsrv/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityarajsrv/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/adityarajsrv/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityarajsrv/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adityarajsrv/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/adityarajsrv/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityarajsrv/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
